@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: hsl(204, 43%, 93%);
+}
+
+.main{
+    width: 375px;
+    height: 850px;
+    font-family: 'Karla', sans-serif;
+    background-color: #fff;
+    border-radius: 10px;
+    font-size: 16px;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.top-container{
+    height: 300px;
+
+}
+    
+.mid-container{
+    height: 200px;
+    background-color:hsl(179, 62%, 43%);
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Join our community
+
+30-day, hassle-free money back guarantee
+
+Gain access to our full library of tutorials along with expert code reviews. 
+Perfect for any developers who are serious about honing their skills.
+
+Monthly Subscription
+
+&dollar;29 per month
+
+Full access for less than &dollar;1 a day
+
+Sign Up
+
+Why Us
+
+Tutorials by industry experts
+Peer &amp; expert code review
+Coding exercises
+Access to our GitHub repos
+Community forum
+Flashcard decks
+New videos every week */
